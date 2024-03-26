@@ -4,7 +4,7 @@
   Hi there!, I'm Guruprasad.
 <h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=Developer+%7C+Designer+%7C+OSS+Contributer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=Developer+%7C+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 <p>
 <!--<a href="#"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a> -->
